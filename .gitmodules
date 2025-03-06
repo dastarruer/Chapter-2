@@ -1,0 +1,12 @@
+[submodule "celsius-farenheit-converter"]
+	path = celsius-farenheit-converter
+	url = git@github.com:dastarruer/celsius-farenheit-converter.git
+[submodule "fibonacci"]
+	path = fibonacci
+	url = git@github.com:dastarruer/fibonacci.git
+[submodule "guessing-game"]
+	path = guessing-game
+	url = git@github.com:dastarruer/guessing-game.git
+[submodule "twelve-days-of-christmas"]
+	path = twelve-days-of-christmas
+	url = git@github.com:dastarruer/twelve-days-of-christmas.git
